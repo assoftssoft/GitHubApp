@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "0c91b3e4b585177df68b4795eeedcb6c"
+build_time: [1557575837, 308305000]
+inputs:
+  "/Users/admin/Desktop/GitHub/Pods/SkyFloatingLabelTextField/Sources/SkyFloatingLabelTextField.swift": [1557555298, 0]
+  "/Users/admin/Desktop/GitHub/Pods/SkyFloatingLabelTextField/Sources/SkyFloatingLabelTextFieldWithIcon.swift": [1557555298, 0]
+  "/Users/admin/Desktop/GitHub/Pods/SkyFloatingLabelTextField/Sources/UITextField+fixCaretPosition.swift": [1557555298, 0]

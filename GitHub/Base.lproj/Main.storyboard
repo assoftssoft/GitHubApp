@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="u9G-EX-LWo">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="u9G-EX-LWo">
     <device id="retina4_0" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -19,20 +19,20 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="github-icon-logo-png-transparent" translatesAutoresizingMaskIntoConstraints="NO" id="dDb-sh-DtQ">
-                                <rect key="frame" x="85" y="154" width="150" height="150"/>
+                                <rect key="frame" x="110" y="84" width="100" height="100"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="150" id="FnZ-Hq-yWf"/>
-                                    <constraint firstAttribute="width" constant="150" id="fhi-OD-eiZ"/>
+                                    <constraint firstAttribute="height" constant="100" id="FnZ-Hq-yWf"/>
+                                    <constraint firstAttribute="width" constant="100" id="fhi-OD-eiZ"/>
                                 </constraints>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Git User Login Name " textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="F7D-ch-xHQ">
-                                <rect key="frame" x="10" y="314" width="300" height="23"/>
+                                <rect key="frame" x="10" y="194" width="300" height="23"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="19"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="PXv-Ig-gkl" customClass="SkyFloatingLabelTextField" customModule="SkyFloatingLabelTextField">
-                                <rect key="frame" x="10" y="347" width="300" height="43"/>
+                                <rect key="frame" x="10" y="227" width="300" height="43"/>
                                 <nil key="textColor"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
                                 <textInputTraits key="textInputTraits"/>
@@ -41,7 +41,7 @@
                                 </userDefinedRuntimeAttributes>
                             </textField>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DSU-Kw-0fr">
-                                <rect key="frame" x="60" y="415" width="200" height="34"/>
+                                <rect key="frame" x="60" y="295" width="200" height="34"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="200" id="vJR-hx-auL"/>
@@ -57,7 +57,7 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
-                            <constraint firstItem="dDb-sh-DtQ" firstAttribute="top" secondItem="lfG-wA-f4A" secondAttribute="top" constant="90" id="0aQ-Qn-5c1"/>
+                            <constraint firstItem="dDb-sh-DtQ" firstAttribute="top" secondItem="lfG-wA-f4A" secondAttribute="top" constant="20" id="0aQ-Qn-5c1"/>
                             <constraint firstItem="DSU-Kw-0fr" firstAttribute="centerX" secondItem="PXv-Ig-gkl" secondAttribute="centerX" id="Aiw-0t-F1b"/>
                             <constraint firstItem="PXv-Ig-gkl" firstAttribute="top" secondItem="F7D-ch-xHQ" secondAttribute="bottom" constant="10" id="NtJ-Y9-Nku"/>
                             <constraint firstItem="lfG-wA-f4A" firstAttribute="trailing" secondItem="F7D-ch-xHQ" secondAttribute="trailing" constant="10" id="O7K-LN-aSD"/>

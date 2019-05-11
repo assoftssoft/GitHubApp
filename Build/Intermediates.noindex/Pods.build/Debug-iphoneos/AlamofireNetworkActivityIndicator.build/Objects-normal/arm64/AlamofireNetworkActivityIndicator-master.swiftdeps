@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "b75b020b85aeb9a5e030318f11455814"
+build_time: [1557575842, 834094000]
+inputs:
+  "/Users/admin/Desktop/GitHub/Pods/AlamofireNetworkActivityIndicator/Source/NetworkActivityIndicatorManager.swift": [1557557690, 0]

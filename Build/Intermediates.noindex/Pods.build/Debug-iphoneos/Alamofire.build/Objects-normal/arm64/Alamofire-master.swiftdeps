@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "1e7df24a4cae3df479506eeb65b7d367"
+build_time: [1557575839, 994773000]
+inputs:
+  "/Users/admin/Desktop/GitHub/Pods/Alamofire/Source/AFError.swift": [1557555298, 0]
+  "/Users/admin/Desktop/GitHub/Pods/Alamofire/Source/Alamofire.swift": [1557555298, 0]
+  "/Users/admin/Desktop/GitHub/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1557555298, 0]
+  "/Users/admin/Desktop/GitHub/Pods/Alamofire/Source/MultipartFormData.swift": [1557555298, 0]
+  "/Users/admin/Desktop/GitHub/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1557555298, 0]
+  "/Users/admin/Desktop/GitHub/Pods/Alamofire/Source/Notifications.swift": [1557555298, 0]
+  "/Users/admin/Desktop/GitHub/Pods/Alamofire/Source/ParameterEncoding.swift": [1557555298, 0]
+  "/Users/admin/Desktop/GitHub/Pods/Alamofire/Source/Request.swift": [1557555298, 0]
+  "/Users/admin/Desktop/GitHub/Pods/Alamofire/Source/Response.swift": [1557555298, 0]
+  "/Users/admin/Desktop/GitHub/Pods/Alamofire/Source/ResponseSerialization.swift": [1557555298, 0]
+  "/Users/admin/Desktop/GitHub/Pods/Alamofire/Source/Result.swift": [1557555298, 0]
+  "/Users/admin/Desktop/GitHub/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1557555298, 0]
+  "/Users/admin/Desktop/GitHub/Pods/Alamofire/Source/SessionDelegate.swift": [1557555298, 0]
+  "/Users/admin/Desktop/GitHub/Pods/Alamofire/Source/SessionManager.swift": [1557555298, 0]
+  "/Users/admin/Desktop/GitHub/Pods/Alamofire/Source/TaskDelegate.swift": [1557555298, 0]
+  "/Users/admin/Desktop/GitHub/Pods/Alamofire/Source/Timeline.swift": [1557555298, 0]
+  "/Users/admin/Desktop/GitHub/Pods/Alamofire/Source/Validation.swift": [1557555298, 0]

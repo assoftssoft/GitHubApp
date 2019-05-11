@@ -20,13 +20,23 @@ class UserRepoTableview: UIViewController , UITableViewDelegate , UITableViewDat
     
     var RepoGitModel : [RepositryModelGit]?
     
-    
+   @objc  func dismissKeyboard() {
+        //Causes the view (or one of its embedded text fields) to resign the first responder status.
+        view.endEditing(true)
+    }
     
     override func viewDidLoad() {
         super.viewDidLoad()
         
         TabView.delegate = self
         TabView.dataSource = self
+        
+        let tap: UITapGestureRecognizer = UITapGestureRecognizer(target: self, action: #selector(dismissKeyboard))
+        
+        //Uncomment the line below if you want the tap not not interfere and cancel other interactions.
+        //tap.cancelsTouchesInView = false
+        
+        view.addGestureRecognizer(tap)
         
         let nib = UINib.init(nibName: "RepositryCell", bundle: nil)
         self.TabView.register(nib, forCellReuseIdentifier: "CellRepo")

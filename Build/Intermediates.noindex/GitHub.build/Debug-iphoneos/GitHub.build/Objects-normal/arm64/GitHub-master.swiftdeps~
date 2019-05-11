@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "bc34d96d3e266641bd8a5ae7580f6557"
+build_time: [1557576376, 298468000]
+inputs:
+  "/Users/admin/Desktop/GitHub/GitHub/SearchRepoViewController.swift": [1557576376, 215829318]
+  "/Users/admin/Desktop/GitHub/GitHub/RepositryModelGit.swift": [1557567130, 0]
+  "/Users/admin/Desktop/GitHub/GitHub/UserRepoTableview.swift": [1557576305, 582142808]
+  "/Users/admin/Desktop/GitHub/GitHub/UserDetailGit.swift": [1557576334, 476367019]
+  "/Users/admin/Desktop/GitHub/GitHub/UserModel.swift": [1557573116, 0]
+  "/Users/admin/Desktop/GitHub/GitHub/GitHubMainApi.swift": [1557573600, 0]
+  "/Users/admin/Desktop/GitHub/GitHub/ViewController.swift": [1557553470, 0]
+  "/Users/admin/Desktop/GitHub/GitHub/GitLoginController.swift": [1557576376, 205390624]
+  "/Users/admin/Desktop/GitHub/GitHub/AppDelegate.swift": [1557558526, 0]
+  "/Users/admin/Desktop/GitHub/GitHub/RespositryCell.swift": [1557565548, 0]
